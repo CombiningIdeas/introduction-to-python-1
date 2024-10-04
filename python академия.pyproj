@@ -89,7 +89,6 @@
     <Compile Include="Практическая по строкам.py" />
     <Compile Include="проверка числа.py" />
     <Compile Include="Распред. перемен. между масивами.py" />
-    <Compile Include="сайт.py" />
     <Compile Include="сложение чисел вертикально.py" />
     <Compile Include="сравнение чисел.py" />
     <Compile Include="счетчик процентов.py" />
