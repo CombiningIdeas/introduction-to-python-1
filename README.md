@@ -13,3 +13,4 @@ interested in it can familiarize themselves with it and study the tasks that I s
 
 ---
 
+![backup#1](https://github.com/user-attachments/assets/f426d477-1ff8-41a4-9bf3-73f63fb373b7)
